@@ -28,7 +28,9 @@ params:
         enabled: true
         title: "Sunil Jacob" # optional default will be site title
         subtitle: "This is subtitle"
-
+        imageUrl: "img/sunil_color.jpg"
+        imageWidth: 193
+        imageHeight: 200
     socialIcons: # optional
         - name: "LinkedIn"
           url: "https://www.linkedin.com/in/itsmesuniljacob/"
