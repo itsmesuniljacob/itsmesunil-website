@@ -2,3 +2,37 @@ baseURL: https://itsmesunil.com/
 languageCode: en-us
 title: My Demo Site
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: aboutme
+      name: About Me
+      url: /aboutme/
+      weight: 10
+    - identifier: articles
+      name: Articles
+      url: /archives/
+      weight: 20
+    - identifier: tutorials
+      name: Tutorials
+      url: /tutorials/
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 40
+
+
+params:
+    profileMode:
+        enabled: true
+        title: "Sunil Jacob" # optional default will be site title
+        subtitle: "This is subtitle"
+
+    socialIcons: # optional
+        - name: "LinkedIn"
+          url: "https://www.linkedin.com/in/itsmesuniljacob/"
+        - name: "Github"
+          url: "https://github.com/itsmesuniljacob"
+        - name: "Twitter"
+          url: "https://twitter.com/itsmesunil314"
