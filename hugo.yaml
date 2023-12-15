@@ -13,10 +13,6 @@ menu:
       name: Articles
       url: /archives/
       weight: 20
-    - identifier: tutorials
-      name: Tutorials
-      url: /tutorials/
-      weight: 30
     - identifier: categories
       name: Categories
       url: /categories/
@@ -24,17 +20,22 @@ menu:
 
 
 params:
-    profileMode:
-        enabled: true
-        title: "Sunil Jacob" # optional default will be site title
-        subtitle: "This is subtitle"
-        imageUrl: "img/sunil_color.jpg"
-        imageWidth: 193
-        imageHeight: 200
-    socialIcons: # optional
-        - name: "LinkedIn"
-          url: "https://www.linkedin.com/in/itsmesuniljacob/"
-        - name: "Github"
-          url: "https://github.com/itsmesuniljacob"
-        - name: "Twitter"
-          url: "https://twitter.com/itsmesunil314"
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  comments: true
+  profileMode:
+      enabled: true
+      title: "Sunil Jacob" # optional default will be site title
+      subtitle: "Welcome to my blog"
+      imageUrl: "img/sunil_color.jpg"
+      imageWidth: 193
+      imageHeight: 200
+  socialIcons: # optional
+      - name: "LinkedIn"
+        url: "https://www.linkedin.com/in/itsmesuniljacob/"
+      - name: "Github"
+        url: "https://github.com/itsmesuniljacob"
+      - name: "Twitter"
+        url: "https://twitter.com/itsmesunil314"
+
+    
