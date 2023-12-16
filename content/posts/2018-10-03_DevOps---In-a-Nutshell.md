@@ -6,9 +6,10 @@ date: '2018-10-03T16:32:16.722Z'
 categories: ["DevOps"]
 keywords: []
 slug: /@itsmesunil/devops-in-a-nutshell-fa0988132de7
+draft: true
 ---
 
-**“The most powerful tool we have as developers is automation**“.
+**"The most powerful tool we have as developers is automation**".
 
 Automation has become a buzzword in every organization and is followed in all the phases of software development until we have developed a successful product. Is our job completed after developing a successful product and releasing it to the customer? Not really, there is a continuous cycle of enhancement, fine-tuning, feedback loop. Is it good to have a continuous process to handle the new features or enhancements? That’s where the DevOps practice comes into play.
 
