@@ -1,6 +1,7 @@
 ---
 title: DevOps — In a Nutshell
-description: "The most powerful tool we have as developers is automation."
+description: >-
+    The most powerful tool we have as developers is automation.
 date: '2018-10-03T16:32:16.722Z'
 categories: ["DevOps"]
 keywords: []
