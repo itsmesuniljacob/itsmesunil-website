@@ -1,7 +1,7 @@
 +++
 title = 'Spiffe'
 date = 2023-12-13T16:21:59+05:30
-draft = true
+draft = false
 tags = ["istio", "security"]
 categories = ["tech"]
 +++
