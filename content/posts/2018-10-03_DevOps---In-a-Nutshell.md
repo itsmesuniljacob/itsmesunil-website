@@ -6,7 +6,6 @@ date: '2018-10-03T16:32:16.722Z'
 categories: ["DevOps"]
 keywords: []
 slug: /@itsmesunil/devops-in-a-nutshell-fa0988132de7
-draft: true
 ---
 
 **"The most powerful tool we have as developers is automation**".

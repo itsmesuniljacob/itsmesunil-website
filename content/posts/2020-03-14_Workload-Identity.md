@@ -6,7 +6,7 @@ date: '2020-03-14T09:37:54.769Z'
 categories: ["tech", "security"]
 keywords: []
 slug: /@itsmesunil/workload-identity-a-spiffe-primer-533d79f4e53a
-draft: true
+draft: false
 ---
 
 ![](/img/lock.jpg)
