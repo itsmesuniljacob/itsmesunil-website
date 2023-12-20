@@ -4,7 +4,7 @@ description: >-
   In recent years, the impact of technology on the environment has become a
   growing concern. The rapid growth of digital technology has led…
 date: '2023-05-03T09:16:33.651Z'
-categories: ["practice"]
+categories: ["practice", "code"]
 keywords: []
 slug: /@itsmesunil/green-coding-practices-c0a5282b2d3f
 draft: false
