@@ -2,6 +2,7 @@ baseURL: https://itsmesunil.com/
 languageCode: en-us
 title: Sunil Jacob
 theme: PaperMod
+# paginate: 3
 
 menu:
   main:
