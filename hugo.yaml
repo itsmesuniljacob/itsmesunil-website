@@ -42,5 +42,7 @@ params:
         url: "https://github.com/itsmesuniljacob"
       - name: "Twitter"
         url: "https://twitter.com/itsmesunil314"
+      - name: "Stackoverflow"
+        url: "https://stackoverflow.com/users/6246628/sunil?tab=profile"
 
     
