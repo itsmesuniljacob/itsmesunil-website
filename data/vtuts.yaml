@@ -1,0 +1,6 @@
+---
+talks:
+- date: 2023-05-02
+  title: "Practical DevSecOps with GitHub Actions"
+  platform: "EC-Council | Learning"
+  locationLink: https://codered.eccouncil.org/course/practical-devsecops-with-github-actions?logged=false

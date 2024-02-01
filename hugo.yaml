@@ -18,6 +18,10 @@ menu:
       name: Categories
       url: /categories/
       weight: 30
+    - identifier: vtuts
+      name: Video Tutorials
+      url: /vtuts/
+      weight: 40
 
 
 params:
