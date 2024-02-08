@@ -1,6 +1,14 @@
 ---
 talks:
+- date: 2024-03-02
+  title: "Mastering Istio for Kubernetes Security"
+  platform: "EC-Council | Learning"
+  locationLink: https://codered.eccouncil.org/course/mastering-istio-for-kubernetes-security?logged=false
 - date: 2023-05-02
   title: "Practical DevSecOps with GitHub Actions"
   platform: "EC-Council | Learning"
   locationLink: https://codered.eccouncil.org/course/practical-devsecops-with-github-actions?logged=false
+- date: 2021-10-02
+  title: "Getting Started with Kubernetes"
+  platform: "Manning"
+  locationLink: https://liveproject.manning.com/module/874_1_1/containerize-an-application/introduction/animated-intro
