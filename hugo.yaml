@@ -27,6 +27,7 @@ menu:
 
 
 params:
+  env: production
   assets:
     favicon: "/favicon.ico"
     favicon16x16: "/favicon-16x16.png"
