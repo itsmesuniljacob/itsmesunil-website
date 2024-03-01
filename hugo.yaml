@@ -22,10 +22,6 @@ menu:
       name: Video Tutorials
       url: /vtuts/
       weight: 40
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 50
 
 
 params:
@@ -53,9 +49,4 @@ params:
       - name: "Stackoverflow"
         url: "https://stackoverflow.com/users/6246628/sunil?tab=profile"
 
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON # necessary for search
     
