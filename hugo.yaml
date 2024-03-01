@@ -4,6 +4,8 @@ title: Sunil Jacob
 theme: PaperMod
 # paginate: 3
 
+googleAnalytics: G-WTDBB8SPV5
+
 menu:
   main:
     - identifier: aboutme
