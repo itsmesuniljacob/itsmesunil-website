@@ -1,10 +1,8 @@
 +++
-title =  "About a Cloud-Crunching, Code-Crafting Enthusiast (That's Me!)"
+title =  "About Me"
 draft = true
 +++
 I'm Sunil Jacob, proudly donning the hat of Principal Engineer in the Cloud Platform Engineering team at [Cradlepoint](https://cradlepoint.com/) ( Ericsson Company ). As a Principal Engineer, my palette is adorned with a spectrum of technologies – from AWS/GCP, Kubernetes, Service Mesh (Istio), Terraform, Observability.
-
-When I'm not scaling the peaks of infrastructure optimization, you can find me wrangling Kubernetes clusters,  and sharing my knowledge through immersive video courses, technical articles, and open-source contributions.
 
 **My Playground:**
 

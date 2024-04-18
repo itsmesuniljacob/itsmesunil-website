@@ -42,6 +42,11 @@ params:
       imageUrl: "img/sunil_color.jpg"
       imageWidth: 193
       imageHeight: 200
+      buttons:
+          - name: Posts
+            url: posts
+          - name: Tags
+            url: tags
   socialIcons: # optional
       - name: "LinkedIn"
         url: "https://www.linkedin.com/in/itsmesuniljacob/"
@@ -51,5 +56,10 @@ params:
         url: "https://twitter.com/itsmesunil314"
       - name: "Stackoverflow"
         url: "https://stackoverflow.com/users/6246628/sunil?tab=profile"
-
+      - name: rss
+        url: /index.xml
+  outputs:
+    home:
+      - rss
+      - html
     
